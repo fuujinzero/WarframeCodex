@@ -20,4 +20,5 @@ Second year android app development v1.0
  * "Activities & App Navigation" 
  * "Application Design"
  * "Android Persistence using SQLite"
+ ##
  by **David Drohan**
