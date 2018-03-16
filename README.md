@@ -15,10 +15,10 @@ Second year android app development v1.0
  
  * https://dzone.com/articles/create-a-database-android-application-in-android-s
  * http://abhiandroid.com/database/sqlite
- 
+ ##
+  by **David Drohan**
 * Labs 1-4
  * "Activities & App Navigation" 
  * "Application Design"
  * "Android Persistence using SQLite"
  ##
- by **David Drohan**
