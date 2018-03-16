@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WarframeCodex</string>
+    <string name="action_frames">Frames</string>
+    <string name="frames">Frames</string>
+    <string name="add">Add Frame</string>
+    <string name="adds">Add-Frame</string>
+</resources>
