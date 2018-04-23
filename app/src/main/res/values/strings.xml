@@ -4,4 +4,8 @@
     <string name="frames">Frames</string>
     <string name="add">Add Frame</string>
     <string name="adds">Add-Frame</string>
+    <string name="action_frameslist">Frame list</string>
+    <string name="action_addframes">Add Frame</string>
+    <string name="Primary">Primary</string>
+    <string name="framelist">Framelist</string>
 </resources>

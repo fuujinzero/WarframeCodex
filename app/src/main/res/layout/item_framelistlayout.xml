@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/listViewFrames"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/textViewIDs"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="7dp"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewNames"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewHealth"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewEnergy"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/textViewArmor"
+        android:layout_width="75dp"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+</LinearLayout>

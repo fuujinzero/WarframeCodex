@@ -138,10 +138,18 @@ public class Addframe extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch(item.getItemId())
+    {
+        case R.id.action_frameslist://startActivity(new Intent(this, Framelist.class));
+        Intent intent=new Intent(Addframe.this, Warframelist.class);
+        startActivity(intent);
+    }
+        switch(item.getItemId())
         {
-            case R.id.action_frameslist : startActivity(new Intent(this, Addframe.class));
-                break;
+            case R.id.action_addframes://startActivity(new Intent(this, Framelist.class));
+                Intent intent=new Intent(Addframe.this, Addframe.class);
+                startActivity(intent);
         }
         return super.onOptionsItemSelected(item);
-    }
+}
+
 }
